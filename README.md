@@ -1,1 +1,1 @@
-# https://alicecoal.github.io/rsschool-cv/cv
+# https://alicecoal.github.io/rsschool-cv/
