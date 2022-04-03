@@ -31,4 +31,4 @@ function launchAll(launchMissile) {
 * Russian (native)
 * Swedish (basic)
 * English (advanced, finished Streamline Courses for level C1, working as a teamleader in linguistic camp for three years)
-<img src="https://str.by/cert-web/uploads/certificates/25B3E97329DC35572009562FE78AB98C.jpg" width="700" height="400">
+<img src="https://str.by/cert-web/uploads/certificates/25B3E97329DC35572009562FE78AB98C.jpg" width="680" height="400">
