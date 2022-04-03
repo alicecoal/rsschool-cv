@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://alicecoal.github.io/rsschool-cv/
